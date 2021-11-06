@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Piano app created with React-piano
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the first test build of the piano app, after the build is complete it takes a few keystrokes to get sound form the piano.
 
 ## Available Scripts
 
