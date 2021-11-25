@@ -8,17 +8,18 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background: #444;
+  /* background: #444; */
+  background-image: url(./images/4.jpg);
 }
 
 .piano-container {
   display: inline-flex;
-  border-top: 10px solid blue;
+  border-top: 10px solid brown;
 }
 
 .piano-natural-key {
-  width: 50px;
-  height: 180px;
+  width: 60px;
+  height: 200px;
   cursor: pointer;
   background: #fafafa;
   margin: 0 2px;
@@ -36,8 +37,8 @@
 }
 
 .piano-natural-key-playing {
-  border-bottom: 10px solid blue;
-  color: blue;
+  border-bottom: 10px solid brown;
+  color: brown;
 }
 
 .piano-accidental-key-wrapper {
@@ -50,8 +51,8 @@
   cursor: pointer;
   background: #444;
   transform: translateX(-50%);
-  width: 36px;
-  height: 120px;
+  width: 46px;
+  height: 140px;
   border-radius: 0 0 3px 3px;
   border : 3px solid #444;
   border-top: none;
