@@ -1,8 +1,18 @@
-# Piano app created with React-piano
+# Piano-app
 
-This is the first test build of the piano app, after the build is complete it takes a few keystrokes to get sound form the piano.
+## This is a functional piano web application created for the CPSC 2350 course.
+
+### Requirements of the software.
+
+- Display a piano keyboard on screen
+- Piano key has a letter/number that corresponds to a keyboard key to be pressed.
+- When keyboard key is pressed, piano key is pressed and sound plays.
+- Sound should be the same of an actual piano
+
+This page will be updated during the project's course.
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
@@ -18,3 +28,4 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
