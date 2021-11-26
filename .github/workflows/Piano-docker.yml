@@ -22,4 +22,4 @@ jobs:
       run: docker build . --file Docker --tag piano-docker-latest
       
     - name: Docker Push
-      run: docker push Piano-docker-latest 
+      run: docker push piano-docker-latest 
