@@ -19,7 +19,7 @@ jobs:
       run: |
         docker login -u $DOCKER_USER -p $DOCKER_PASSWORD 
     - name: Build the Docker image
-      run: docker build . --file dockerfile --tag piano-docker-latest
+      run: docker build . --file Docker --tag piano-docker-latest
       
     - name: Docker Push
       run: docker push Piano-docker-latest 
