@@ -2,6 +2,11 @@
 
 ## This is a functional piano web application created for the CPSC 2350 course.
 
+###Project done by 
+- Shivangi Patel  spatel27@mylangara.ca
+- Felipe Prudenico  ferudencio00@mylangara.ca
+- Jiaying Wang  jwang161@mylangara.ca
+
 ### Requirements of the software.
 
 - Display a piano keyboard on screen
